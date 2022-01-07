@@ -1,0 +1,41 @@
+﻿{
+   "ContextClassName": "AutomationlaboratorydbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "Automation_Laboratory_Backend",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Device]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[History]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Module]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Workplace]"
+      }
+   ],
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": false
+}

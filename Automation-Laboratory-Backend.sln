@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation-Laboratory-Backend", "Automation-Laboratory-Backend\Automation-Laboratory-Backend.csproj", "{659BE6C0-B6D5-4CF6-A7E1-11723890D7BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659BE6C0-B6D5-4CF6-A7E1-11723890D7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659BE6C0-B6D5-4CF6-A7E1-11723890D7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659BE6C0-B6D5-4CF6-A7E1-11723890D7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659BE6C0-B6D5-4CF6-A7E1-11723890D7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {572E528B-5DC8-4D57-97B2-A634788D8A2B}
+	EndGlobalSection
+EndGlobal
